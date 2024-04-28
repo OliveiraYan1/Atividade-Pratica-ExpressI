@@ -60,4 +60,3 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 
-link API: https://documenter.getpostman.com/view/34357257/2sA3BuW8rQ
